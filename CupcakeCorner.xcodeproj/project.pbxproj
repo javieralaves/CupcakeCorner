@@ -13,6 +13,7 @@
 		599438152A6AF2B800F17850 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 599438142A6AF2B800F17850 /* Preview Assets.xcassets */; };
 		5994381C2A6AF31B00F17850 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5994381B2A6AF31B00F17850 /* Order.swift */; };
 		5994381E2A6AF70100F17850 /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5994381D2A6AF70100F17850 /* AddressView.swift */; };
+		599438202A6AFA8500F17850 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5994381F2A6AFA8500F17850 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		599438142A6AF2B800F17850 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5994381B2A6AF31B00F17850 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		5994381D2A6AF70100F17850 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
+		5994381F2A6AFA8500F17850 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				5994380D2A6AF2B800F17850 /* CupcakeCornerApp.swift */,
 				5994380F2A6AF2B800F17850 /* ContentView.swift */,
+				5994381F2A6AFA8500F17850 /* CheckoutView.swift */,
 				5994381D2A6AF70100F17850 /* AddressView.swift */,
 				5994381B2A6AF31B00F17850 /* Order.swift */,
 				599438112A6AF2B800F17850 /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 			files = (
 				5994381C2A6AF31B00F17850 /* Order.swift in Sources */,
 				5994381E2A6AF70100F17850 /* AddressView.swift in Sources */,
+				599438202A6AFA8500F17850 /* CheckoutView.swift in Sources */,
 				599438102A6AF2B800F17850 /* ContentView.swift in Sources */,
 				5994380E2A6AF2B800F17850 /* CupcakeCornerApp.swift in Sources */,
 			);
